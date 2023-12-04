@@ -1,0 +1,16 @@
+:root {
+    --border-radius-value: 15px;
+    --primary-color: rgb(8, 8, 101);
+}
+
+.modal-btn {
+    border-radius: var(--border-radius-value) !important;
+}
+
+.button {
+    padding: 1% !important;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+}
