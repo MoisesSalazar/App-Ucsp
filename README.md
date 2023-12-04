@@ -31,6 +31,16 @@ Para acceder como administrador:
 
 Por favor, asegúrese de cambiar estas credenciales en un entorno de producción para mantener la seguridad de su aplicación.
 
+## Instrucciones para el usuario profesor
+
+Para acceder como profesor:
+
+1. Ir a la página de inicio de sesión.
+2. Ingrese el correo electrónico proporcionado.
+3. Ingrese la siguiente contraseña: `1234`
+
+Por favor, asegúrese de cambiar estas credenciales en un entorno de producción para mantener la seguridad de su aplicación.
+
 ## Funcionalidad
 
 La aplicación tiene dos tipos de vistas principales:
